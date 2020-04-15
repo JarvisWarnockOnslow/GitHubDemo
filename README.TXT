@@ -8,5 +8,5 @@ PROJECT TITLE: GithubDemo
 PURPOSE OF PROJECT: To practice sharing projects to GitHub using BlueJ
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Jarvis Warnock
 USER INSTRUCTIONS:
